@@ -58,16 +58,6 @@ Veriler güvenli ve düzenli bir şekilde veritabanında saklanmaktadır.
 
 ---
 
-## 📈 Geliştirme Fikirleri
-
-- Kullanıcı giriş ve yetkilendirme sistemi
-- PDF / Excel raporlama modülü
-- Web tabanlı versiyon
-- Çoklu kullanıcı desteği
-- Otomatik veri yedekleme sistemi
-
----
-
 ## 🎯 Gerçek Kullanım Senaryosu
 
 Bu uygulama, bir reklam ofisinde müşteri bazlı cari hesap takibini dijitalleştirmek amacıyla geliştirilmiştir. Gerçek kullanım senaryosu düşünülerek tasarlanmış olup küçük işletmeler için pratik bir çözüm sunmaktadır.
